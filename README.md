@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar p</h1>
-<h3 align="center">2nd Year ECE Student from NMAM Institute Of Technology</h3><img align="right" alt="Arduino" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFsYW4zdHNvZWN2Zndud2xjaDV1ZDhseXZ0eHh3OWU0amd2Y29yNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFDWuDppjQJjite6FS/giphy.gif">
+<h3 align="center">2nd Year ECE Student from NMAM Institute Of Technology</h3>
+<img align="right" alt="Arduino" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFsYW4zdHNvZWN2Zndud2xjaDV1ZDhseXZ0eHh3OWU0amd2Y29yNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFDWuDppjQJjite6FS/giphy.gif">
 
 
 - 🔭 I’m currently working on **Raspberry pi RP2040**
