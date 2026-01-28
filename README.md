@@ -3,8 +3,8 @@
 <img align="right" alt="Arduino" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFsYW4zdHNvZWN2Zndud2xjaDV1ZDhseXZ0eHh3OWU0amd2Y29yNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFDWuDppjQJjite6FS/giphy.gif">
 
 
-- 🔭 I’m currently working on **Raspberry pi RP2040**
-- 💬 Ask me about **Arduino,Esp8266**
+- 🔭 I’m currently working on **MCXN947 NXP**
+- 💬 Ask me about **Arduino,Esp8266, MSPM0G3507 and MSPM0L2228 **
 - 📫 How to reach me **vkpzone@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
