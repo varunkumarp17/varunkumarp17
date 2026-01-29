@@ -1,4 +1,38 @@
-<h2 align="left">Hi 👋! My name is Varun Kumar P</h2>
+<h1 align="center">Hi 👋, I'm Varun Kumar P</h1>
+<h3 align="center">3rd Year Electronics Student | Embedded Systems Enthusiast</h3>
+
+---
+
+## 🌱 Currently Learning 
+- HDL (Verilog / VHDL)
+
+## 💬 Ask Me About
+- Electronics & Digital Design  
+- Arduino & Embedded Systems  
+- MATLAB  
+- Vivado  
+- Microcontrollers   
+
+---
+
+## 🛠️ Platforms & Hardware I’ve Worked With
+
+- **Arduino UNO / Arduino R4 WiFi**
+- **Raspberry Pi Pico**
+- **ESP32 / ESP8266**
+- **MSPM0G3507 / MSPM0L2228** – *Texas Instruments*
+- **EVKMIMXRT1064 / MCXN947** – *NXP*
+
+---
+
+## 📫 How to Reach Me
+- 📧 Email: **vkpzone@gmail.com**
+- 🔗 LinkedIn: [Varun Kumar P](https://www.linkedin.com/in/varunkumarp17/)
+
+---
+
+⭐ *Always curious about hardware, low-level design, and turning ideas into working silicon.*
+
 
 
 ## 🌐 Socials:
