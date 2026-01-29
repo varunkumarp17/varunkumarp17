@@ -3,9 +3,6 @@
 
 ---
 
-## 🌱 Currently Learning 
-- HDL (Verilog / VHDL)
-
 ## 💬 Ask Me About
 - Electronics & Digital Design  
 - Arduino & Embedded Systems  
