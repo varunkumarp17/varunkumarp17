@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Varun Kumar P</h1>
+<h1 align="center">Hi👋, I'm Varun Kumar P</h1>
 <h3 align="center">3rd Year Electronics and Communication Student | Embedded Systems Enthusiast🤖</h3>
 
 <p align="center">
