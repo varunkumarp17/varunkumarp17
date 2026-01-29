@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar P</h1>
-<h3 align="center">3rd Year Electronics Student | Embedded Systems Enthusiast</h3>
-![izuku-midoriya-4k-wallpaper-3840x2160-27127](https://github.com/user-attachments/assets/4ce7f5b0-95e2-4be1-9811-5dbd0d18ce04)
+<h3 align="center">3rd Year Electronics and Communication Student | Embedded Systems Enthusiast🤖</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VjNXk2ZXpzZ2p2NnE4cjFjNGV3enpuYXo5bTl2cWY2c3pjYjZ0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPipgrovqOodyYo/giphy.gif" alt="Cool GIF" />
+</p>
 
 ---
 
-## 💬 Ask Me About
+## 📩 Ask Me About
 - Electronics & Digital Design  
 - Arduino & Embedded Systems  
 - MATLAB  
@@ -15,11 +18,11 @@
 
 ## 🛠️ Platforms & Hardware I’ve Worked With
 
-- **Arduino UNO / Arduino R4 WiFi**
-- **Raspberry Pi Pico**
-- **ESP32 / ESP8266**
-- **MSPM0G3507 / MSPM0L2228** – *Texas Instruments*
-- **EVKMIMXRT1064 / MCXN947** – *NXP*
+- **Arduino UNO/ R4 WIFI** : [Arduino](https://www.arduino.cc/en/software/)
+- **Raspberry Pi Pico** 
+- **ESP32 / ESP8266** : [Espressif](https://docs.espressif.com/projects/espressif-ide/en/latest/downloads.html) 
+- **MSPM0G3507 / MSPM0L2228** : [Texas Instruments](https://www.ti.com/)
+- **EVKMIMXRT1064 / MCXN947** : [NXP Semiconductor](https://en.wikipedia.org/wiki/NXP_Semiconductors)
 
 ---
 
