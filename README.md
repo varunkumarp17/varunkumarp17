@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar P</h1>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdzaXYzaDB1Y2V6NG9iejkwYThoeGdsZ3Y0cmJmcHpuYXZ3dzMxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j4s1p8IVmoYSgMS3mM/giphy.gif" alt="Working on FPGA" />
+</p>
+
 <h3 align="center">3rd Year Electronics Student | Embedded Systems Enthusiast</h3>
 
 ---
