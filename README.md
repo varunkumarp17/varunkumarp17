@@ -17,11 +17,11 @@
 
 ## 🛠️ Platforms & Hardware I’ve Worked With
 
-- **Arduino UNO/ R4 WIFI** : [Arduino](https://www.arduino.cc/en/software/)
+- **Arduino UNO/ R4 WIFI** 
 - **Raspberry Pi Pico** 
-- **ESP32 / ESP8266** : [Espressif](https://docs.espressif.com/projects/espressif-ide/en/latest/downloads.html) 
-- **MSPM0G3507 / MSPM0L2228** : [Texas Instruments](https://www.ti.com/)
-- **EVKMIMXRT1064 / MCXN947** : [NXP Semiconductor](https://en.wikipedia.org/wiki/NXP_Semiconductors)
+- **ESP32 / ESP8266**
+- **MSPM0G3507 / MSPM0L2228**
+- **EVKMIMXRT1064 / FRDMMCXN947**
 
 ---
 
