@@ -9,8 +9,7 @@
 
 ## 📩 Ask Me About
 - Electronics & Digital Design  
-- Arduino & Embedded Systems  
-- MATLAB  
+- Arduino & Embedded Systems    
 - Vivado  
 - Microcontrollers   
 
