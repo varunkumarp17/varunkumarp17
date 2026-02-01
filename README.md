@@ -31,7 +31,7 @@
 
 ---
 
-⭐ *Always curious about hardware, low-level design, and turning ideas into working silicon.*
+⭐ *Always curious about microcontrollers.*
 
 
 
