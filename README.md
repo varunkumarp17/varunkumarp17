@@ -19,7 +19,7 @@
 
 - **Arduino UNO/ R4 WIFI** 
 - **Raspberry Pi Pico** 
-- **ESP32 / ESP8266**
+- **ESP32 / ESP8266 /C3/C6/S3**
 - **MSPM0G3507 / MSPM0L2228**
 - **EVKMIMXRT1064 / FRDMMCXN947**
 
