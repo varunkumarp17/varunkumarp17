@@ -17,7 +17,7 @@
 
 ## 🛠️ Platforms & Hardware I’ve Worked With
 
-- **Arduino UNO/ R4 WIFI** 
+- **Arduino UNO/NAN0/R3/R4 WIFI** 
 - **Raspberry Pi Pico** 
 - **ESP32 / ESP8266 /C3/C6/S3**
 - **MSPM0G3507 / MSPM0L2228**
