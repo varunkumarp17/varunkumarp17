@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Varun Kumar P</h1>
-<h3 align="center">3rd Year Electronics and Communication Student | Embedded Systems Enthusiast🤖</h3>
+<h3 align="center">Final Year Electronics and Communication Student | Embedded Systems Enthusiast🤖</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VjNXk2ZXpzZ2p2NnE4cjFjNGV3enpuYXo5bTl2cWY2c3pjYjZ0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPipgrovqOodyYo/giphy.gif" alt="Cool GIF" />
