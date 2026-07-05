@@ -17,11 +17,11 @@
 ---
 
 ## 🛠️ Platforms & Hardware I've Worked With
-- **Arduino UNO / NANO / R3 / R4 WIFI**
+- **Arduino - UNO / NANO / R3 / R4 WIFI**
 - **Raspberry Pi Pico**
-- **ESP32 / ESP8266 / C3 / C6 / S3**
-- **MSPM0G3507 / MSPM0L2228**
-- **EVKMIMXRT1064 / FRDMMCXN947**
+- **ESPRESSIF - ESP32 / ESP8266 / C3 / C6 / S3**
+- **TEXAS INSTRUMENTS - MSPM0G3507 / MSPM0L2228**
+- **NXP SEMICONDUNCTORS - EVKMIMXRT1064 / FRDMMCXN947**
 - **Xilinx FPGA (Spartan-7 / Vivado)**
 - **PYNQ-Z2 / BOOLEAN BOARD**
 
