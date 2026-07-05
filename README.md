@@ -43,6 +43,9 @@
 </p>
 
 ---
+🏅 HackerRank Badges:
+
+SkillRatingC⭐⭐⭐⭐⭐ (5 Star)
 
 ## 📫 How to Reach Me
 - 📧 Email: **vkpzone@gmail.com**
