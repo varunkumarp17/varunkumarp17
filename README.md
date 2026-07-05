@@ -13,7 +13,6 @@
 - Vivado & FPGA Development
 - RISC-V SoC Integration
 - Microcontrollers
--
 
 ---
 
