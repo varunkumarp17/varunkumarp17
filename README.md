@@ -8,11 +8,11 @@
 ---
 
 ## 📩 Ask Me About
-- Electronics & Digital Design
-- Arduino & Embedded Systems
-- Vivado & FPGA Development
-- RISC-V SoC Integration
-- Microcontrollers
+- **Electronics & Digital Design**
+- **Arduino & Embedded Systems**
+- **Vivado & FPGA Development**
+- **RISC-V SoC Integration**
+- **Microcontrollers**
 
 ---
 
