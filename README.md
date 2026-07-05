@@ -13,7 +13,7 @@
 - Vivado & FPGA Development
 - RISC-V SoC Integration
 - Microcontrollers
-- Data Structures & Algorithms
+-
 
 ---
 
@@ -24,6 +24,7 @@
 - **MSPM0G3507 / MSPM0L2228**
 - **EVKMIMXRT1064 / FRDMMCXN947**
 - **Xilinx FPGA (Spartan-7 / Vivado)**
+- **PYNQ-Z2 / BOOLEAN BOARD**
 
 ---
 
@@ -63,7 +64,6 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-003366?style=for-the-badge&logo=v&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
