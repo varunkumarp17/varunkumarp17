@@ -24,7 +24,7 @@
 - **NXP SEMICONDUNCTORS - EVKMIMXRT1064 / FRDMMCXN947**
 - **Xilinx FPGA (Spartan-7 / Vivado)**
 - **PYNQ-Z2 / BOOLEAN BOARD**
-
+- **Visual Studio / MCUxpresso / Silabs - Simplicity Studio**
 ---
 
 ## 📊 Coding Profiles
